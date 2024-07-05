@@ -13,7 +13,7 @@
 - Explore como manipular e iterar sobre listas e dicionários em Python.
 - [Video de estrutura de dados em python](https://www.youtube.com/playlist?list=PLA05yVJtRWYS4mhKqJo_1bZqcetSGjDgU)
 - _(PS:Recomendo ver as Aulas: #1, #2, #3, #4)_
-- _(PS: Ler e testar na miha opinião é mais rapido que ver video, então aprenda os conceitos e vá testando, pode me chamar que eu falo os conceitos <3)_
+- _(PS: Ler e testar na minha opinião é mais rapido que ver video, então aprenda os conceitos e vá testando, pode me chamar que eu falo os conceitos <3)_
 
 ### Exemplo de Lista
 
@@ -228,4 +228,3 @@ _(PS: [Literalmente o GOAT dos videos de API](https://www.youtube.com/watch?v=FB
 
 - **Descrição**: Implemente um sistema que receba notificações via webhook de um serviço externo sempre que novos dados estiverem disponíveis. Os dados recebidos são em formato JSON. O sistema deve armazenar esses dados localmente e fornecer uma API para consulta.
 
-```
